@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbyo2
+- 👋 Hi, I’m @mbyo2 AKA Mabvuto Banda. 
 - 👀 I’m interested in making apps
 - 🌱 I’m currently learning a lot of languages
 - 💞️ I’m looking to collaborate on ...
