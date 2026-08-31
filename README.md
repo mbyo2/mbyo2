@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mbyo2 AKA Mabvuto Banda. 
-- 👀 I’m interested in making apps
-- 🌱 I’m currently learning a lot of languages
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in making webapps,and even native apps that doesn't need internet.
+- 🌱 I’m currently working on AI projects that will transform the future. 
+- 💞️ I’m looking to collaborate on a lot of projects.
 - 📫 How to reach me www.mabvutobanda.online
 
 <!---
